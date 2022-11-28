@@ -1,0 +1,2 @@
+# rss
+Go Rss package
